@@ -14,7 +14,7 @@
   <artifactId>scala-dbc</artifactId>
   <name>scala-dbc</name>
   <description>OSGi-fied version of scala-dbc.</description>
-  <version>${scala.version}</version>
+  <version>${scala-dbc.version}</version>
   <packaging>bundle</packaging>
 
   <dependencies>
